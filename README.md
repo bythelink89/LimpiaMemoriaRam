@@ -16,3 +16,7 @@ bash limpiamemoria.sh
 Nos pedira la contraseña de administrador para 
 poder ejecutarlo y así limpiar la memoria en 
 cache.
+
+### Capturas
+![alt text](images/test1.png)
+![alt text](images/test2.png)
